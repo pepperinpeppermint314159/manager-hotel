@@ -1,0 +1,25 @@
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.custom-multi-select .bootstrap-select{
+    width: 100% !important;
+    border: 1px solid #ced4da!important;
+}
+.custom-multi-select .bootstrap-select button {
+    margin: 0;
+    background: transparent;
+    outline: none !important;
+    border: none;
+    background-color: transparent !important;
+}
+.custom-multi-select .bootstrap-select button:focus {
+    outline: none !important;
+}
+.custom-multi-select .bootstrap-select .filter-option-inner-inner {
+    color: #495057;
+}
+
+.dropdown-usermenu {
+    top: 23px !important;
+}
